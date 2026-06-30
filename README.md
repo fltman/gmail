@@ -1,5 +1,7 @@
 # Gmail Assistant
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 An automated email assistant that monitors your Gmail inbox, analyzes emails using GPT-4, and takes appropriate actions like forwarding merchandise inquiries and sorting job applications.
 
 ## Features
